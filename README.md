@@ -52,6 +52,8 @@ Open the project in Android Studio.
 
 Build and run the app on an emulator or physical device.
 
+APK Download Link: https://www.mediafire.com/file/h6lsj4y9vplg4m1/crypto.apk/file
+
 
 ## 💡 Future Enhancements
 
