@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612765684572",
+    "project_id": "easycrypto-a7bf2",
+    "storage_bucket": "easycrypto-a7bf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612765684572:android:d48494b39995d840f72799",
+        "android_client_info": {
+          "package_name": "com.example.easycrypto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEh8NB88eC6TYTffrwWmnejxhmT23MLqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
